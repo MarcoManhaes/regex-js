@@ -1,0 +1,14 @@
+E:\projetos\estudos\curso-regex\ExpressaoRegular\ExpressaoRegular\bin\Debug\netcoreapp3.1\ExpressaoRegular.exe
+E:\projetos\estudos\curso-regex\ExpressaoRegular\ExpressaoRegular\bin\Debug\netcoreapp3.1\ExpressaoRegular.deps.json
+E:\projetos\estudos\curso-regex\ExpressaoRegular\ExpressaoRegular\bin\Debug\netcoreapp3.1\ExpressaoRegular.runtimeconfig.json
+E:\projetos\estudos\curso-regex\ExpressaoRegular\ExpressaoRegular\bin\Debug\netcoreapp3.1\ExpressaoRegular.runtimeconfig.dev.json
+E:\projetos\estudos\curso-regex\ExpressaoRegular\ExpressaoRegular\bin\Debug\netcoreapp3.1\ExpressaoRegular.dll
+E:\projetos\estudos\curso-regex\ExpressaoRegular\ExpressaoRegular\bin\Debug\netcoreapp3.1\ExpressaoRegular.pdb
+E:\projetos\estudos\curso-regex\ExpressaoRegular\ExpressaoRegular\obj\Debug\netcoreapp3.1\ExpressaoRegular.csproj.AssemblyReference.cache
+E:\projetos\estudos\curso-regex\ExpressaoRegular\ExpressaoRegular\obj\Debug\netcoreapp3.1\ExpressaoRegular.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos\estudos\curso-regex\ExpressaoRegular\ExpressaoRegular\obj\Debug\netcoreapp3.1\ExpressaoRegular.AssemblyInfoInputs.cache
+E:\projetos\estudos\curso-regex\ExpressaoRegular\ExpressaoRegular\obj\Debug\netcoreapp3.1\ExpressaoRegular.AssemblyInfo.cs
+E:\projetos\estudos\curso-regex\ExpressaoRegular\ExpressaoRegular\obj\Debug\netcoreapp3.1\ExpressaoRegular.csproj.CoreCompileInputs.cache
+E:\projetos\estudos\curso-regex\ExpressaoRegular\ExpressaoRegular\obj\Debug\netcoreapp3.1\ExpressaoRegular.dll
+E:\projetos\estudos\curso-regex\ExpressaoRegular\ExpressaoRegular\obj\Debug\netcoreapp3.1\ExpressaoRegular.pdb
+E:\projetos\estudos\curso-regex\ExpressaoRegular\ExpressaoRegular\obj\Debug\netcoreapp3.1\ExpressaoRegular.genruntimeconfig.cache
